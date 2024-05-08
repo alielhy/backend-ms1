@@ -1,0 +1,19 @@
+{
+    "code": "#string",
+    "name": "#string",
+    "yaml": "#string",
+    "categoryProjectTemplate": {"id": "#number"},
+    "projectTemplateTags": "#string",
+    "domainTemplate": {"id": "#number"},
+    "price": "#number",
+    "member": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+
